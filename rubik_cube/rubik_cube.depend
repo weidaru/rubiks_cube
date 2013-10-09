@@ -1,0 +1,598 @@
+# depslib dependency file v1.0
+1076306820 source:d:\others\c++workspace\rubik_cube\scr\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"GLee.h"
+
+1076306820 d:\others\c++workspace\rubik_cube\include\glee.h
+	<windows.h>
+	<gl\gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1330504520 source:d:\others\c++workspace\rubik_cube\scr\main.cpp
+	<iostream>
+	<assert.h>
+	"Glee.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<SFML/Graphics.hpp>
+	"RubiksCube.h"
+	"globals.h"
+
+1264625642 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PostFX.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/String.hpp>
+	<SFML/Graphics/View.hpp>
+
+1264625642 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Input.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowListener.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/OpenGL.hpp>
+
+1264625642 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Randomizer.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1264625642 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\config.hpp
+	<climits>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\clock.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\lock.hpp
+	<SFML/System/NonCopyable.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\mutex.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Win32/Mutex.hpp>
+	<SFML/System/Unix/Mutex.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\win32\mutex.hpp
+	<SFML/System/NonCopyable.hpp>
+	<windows.h>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\unix\mutex.hpp
+	<SFML/System/NonCopyable.hpp>
+	<pthread.h>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\randomizer.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\sleep.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\thread.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Win32/Thread.hpp>
+	<SFML/System/Unix/Thread.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\win32\thread.hpp
+	<SFML/System/NonCopyable.hpp>
+	<windows.h>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\unix\thread.hpp
+	<SFML/System/NonCopyable.hpp>
+	<pthread.h>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\unicode.hpp
+	<SFML/Config.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<stdlib.h>
+	<SFML/System/Unicode.inl>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\unicode.inl
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\vector2.inl
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\vector3.inl
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\context.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\input.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/WindowListener.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\windowlistener.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\videomode.hpp
+	<SFML/Config.hpp>
+	<cstdlib>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Input.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowListener.hpp>
+	<SFML/Window/WindowSettings.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<queue>
+	<string>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\windowsettings.hpp
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\windowstyle.hpp
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\window\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\color.hpp
+	<SFML/Config.hpp>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\font.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<map>
+	<string>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\resource.hpp
+	<set>
+	<SFML/System/Resource.inl>
+	<SFML/System/ResourcePtr.inl>
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\resource.inl
+
+1264625636 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\system\resourceptr.inl
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\rect.hpp
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\rect.inl
+
+1268939654 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\image.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\postfx.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Image.hpp>
+	<istream>
+	<map>
+	<string>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\matrix3.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+	<math.h>
+	<SFML/Graphics/Matrix3.inl>
+
+1268939656 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\matrix3.inl
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\view.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+	<SFML/System/Vector2.hpp>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/System/Vector2.hpp>
+	<vector>
+
+1268939652 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264625634 d:\others\c++workspace\rubik_cube\vendor\sfml\include\sfml\graphics\string.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+
+1330531582 source:d:\others\c++workspace\rubik_cube\scr\rubikscube.cpp
+	"RubiksCube.h"
+	"Cubie.h"
+	<iostream>
+	<cmath>
+	<GL/gl.h>
+	<GL/glu.h>
+	"globals.h"
+
+1330532481 d:\others\c++workspace\rubik_cube\include\rubikscube.h
+	<queue>
+	<string>
+	<vector>
+	<utility>
+	<tr1/memory>
+	<GL/gl.h>
+
+1330527173 d:\others\c++workspace\rubik_cube\include\cubie.h
+	<string>
+
+1076303220 source:c:\leisurework\rubik_cube\scr\glee.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"GLee.h"
+
+1076303220 c:\leisurework\rubik_cube\include\glee.h
+	<windows.h>
+	<gl\gl.h>
+	<GL/gl.h>
+	<GL/glx.h>
+	<stddef.h>
+
+1330313585 source:c:\leisurework\rubik_cube\scr\rubikscube.cpp
+	"RubiksCube.h"
+	"Cubie.h"
+	<iostream>
+	<GL/gl.h>
+	<GL/glu.h>
+	"globals.h"
+
+1330313475 c:\leisurework\rubik_cube\include\rubikscube.h
+	<queue>
+	<string>
+	<vector>
+	<tr1/memory>
+	<GL/gl.h>
+
+1330311664 source:c:\leisurework\rubik_cube\scr\main.cpp
+	<iostream>
+	<assert.h>
+	"Glee.h"
+	<GL/gl.h>
+	<GL/glu.h>
+	<SFML/Graphics.hpp>
+	<RubiksCube.h>
+
+1264622042 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/PostFX.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/String.hpp>
+	<SFML/Graphics/View.hpp>
+
+1264622042 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Input.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowListener.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/OpenGL.hpp>
+
+1264622042 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Randomizer.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1264622042 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\config.hpp
+	<climits>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\clock.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\lock.hpp
+	<SFML/System/NonCopyable.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\noncopyable.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\mutex.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Win32/Mutex.hpp>
+	<SFML/System/Unix/Mutex.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\win32\mutex.hpp
+	<SFML/System/NonCopyable.hpp>
+	<windows.h>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\unix\mutex.hpp
+	<SFML/System/NonCopyable.hpp>
+	<pthread.h>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\randomizer.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\sleep.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\thread.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Win32/Thread.hpp>
+	<SFML/System/Unix/Thread.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\win32\thread.hpp
+	<SFML/System/NonCopyable.hpp>
+	<windows.h>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\unix\thread.hpp
+	<SFML/System/NonCopyable.hpp>
+	<pthread.h>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\unicode.hpp
+	<SFML/Config.hpp>
+	<iterator>
+	<locale>
+	<string>
+	<stdlib.h>
+	<SFML/System/Unicode.inl>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\unicode.inl
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\vector2.inl
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\vector3.inl
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\context.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\input.hpp
+	<SFML/Config.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/WindowListener.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\windowlistener.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\videomode.hpp
+	<SFML/Config.hpp>
+	<cstdlib>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\window.hpp
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Input.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowListener.hpp>
+	<SFML/Window/WindowSettings.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<queue>
+	<string>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\windowsettings.hpp
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\windowstyle.hpp
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\window\opengl.hpp
+	<SFML/Config.hpp>
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\color.hpp
+	<SFML/Config.hpp>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\font.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<map>
+	<string>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\resource.hpp
+	<set>
+	<SFML/System/Resource.inl>
+	<SFML/System/ResourcePtr.inl>
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\resource.inl
+
+1264622036 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\system\resourceptr.inl
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\glyph.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\rect.hpp
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\rect.inl
+
+1268939654 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\image.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\postfx.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Image.hpp>
+	<istream>
+	<map>
+	<string>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\drawable.hpp
+	<SFML/System/Vector2.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\matrix3.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Vector2.hpp>
+	<math.h>
+	<SFML/Graphics/Matrix3.inl>
+
+1268939656 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\matrix3.inl
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\view.hpp
+	<SFML/Config.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Matrix3.hpp>
+	<SFML/System/Vector2.hpp>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/System/Vector2.hpp>
+	<vector>
+
+1268939652 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\sprite.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1264622034 c:\leisurework\rubik_cube\vendor\sfml\include\sfml\graphics\string.hpp
+	<SFML/System/Resource.hpp>
+	<SFML/System/Unicode.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+
+1330310923 source:c:\leisurework\rubik_cube\scr\cubie.cpp
+	"Cubie.h"
+
+1330310916 c:\leisurework\rubik_cube\include\cubie.h
+	<string>
+
+1330260551 source:c:\leisurework\rubik_cube\scr\globals.cpp
+	"globals.h"
+
+1330260432 c:\leisurework\rubik_cube\include\globals.h
+	<map>
+	<tr1/memory>
+	<GL/gl.h>
+
+1330504454 d:\others\c++workspace\rubik_cube\include\globals.h
+	<map>
+	<tr1/memory>
+	<GL/gl.h>
+
+1330504500 source:d:\others\c++workspace\rubik_cube\scr\globals.cpp
+	"globals.h"
+
+1330561445 source:d:\others\c++workspace\rubik_cube\scr\cubie.cpp
+	"Cubie.h"
+	"globals.h"
+	<cmath>
+
